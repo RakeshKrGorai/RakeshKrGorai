@@ -1,10 +1,9 @@
 ### Hi there 👋
-<br>You can contact me at any from below
-<br>-->Telegram @RakeshKrGorai
-<br>-->Instagram @rakesh_kr_gorai
-<br>I'm currently learning Python language only. 
-
-
+🌱 I’m currently focusing on Python language only.
+ 
+<br><br> 📫 How to reach me: 
+<br>--->Telegram- @RakeshKrGorai
+<br>--->Instagram- @rakesh_kr_gorai
 <!--
 **RakeshKrGorai/RakeshKrGorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
