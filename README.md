@@ -4,6 +4,7 @@
 <br><br> 📫 How to reach me: 
 <br>--->Telegram- @RakeshKrGorai
 <br>--->Instagram- @rakesh_kr_gorai
+<br>--->Discord- RowdyRakesh#0191
 <!--
 **RakeshKrGorai/RakeshKrGorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
