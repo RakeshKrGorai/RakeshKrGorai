@@ -21,11 +21,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-
-  
 </div>
 <!--
-<div align="center">
-  <h2>Statistics</h2>
-  <img src="https://activity-graph.herokuapp.com/graph?username=samisthefbi&hide_border=true&hide_title=true&bg_color=00000000&color=C57A75&line=BF616A&point=ffffff&area=true"(https://github.com/ashutosh00710/github-readme-activity-graph)>
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshKrGorai&theme=material-palenight">
+</p>-->
