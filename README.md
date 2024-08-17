@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&center=true&multiline=true&repeat=false&width=800&lines=Hello%2C+I+am+Rakesh+Kumar+Gorai" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&center=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I+am+Rakesh+Kumar+Gorai" alt="Typing SVG" /></a>
 
 <hr>
 
